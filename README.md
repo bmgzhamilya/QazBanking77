@@ -1,1 +1,7 @@
 # QazBanking77
+
+This research work, our focus lies in exploring the task of classifying sentence intents in the banking domain specifically for the Kazakh language. This task holds great significance in advancing intelligent systems capable of understanding and catering to the needs of banking customers. Our research contributes to the field in two main ways:
+1. Creation of the QazBanking77 Dataset: We introduce a novel dataset called QazBanking77. This dataset serves as a valuable resource for training and evaluating models for intent classification in the banking domain.
+2. Development of Data Augmentation Methodology: We propose a novel methodology for data augmentation by generating synthetic sentences using the Large Language Model and translating them into Kazakh. This approach allows us to expand the dataset and introduce additional variations of sentences, enhancing the diversity and richness of training data.
+Our approach enhances intent classification quality significantly over baseline models, as shown by our research. Moreover, we establish the applicability of our methodology to other low-resource languages, highlighting its potential for aiding intent classification tasks in similar linguistic contexts.
+We aim to advance NLP techniques in the banking domain and enable intelligent systems to effectively understand and respond to customer needs in Kazakh and other low-resource languages.
